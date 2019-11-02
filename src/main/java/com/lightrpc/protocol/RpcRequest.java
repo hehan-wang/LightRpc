@@ -2,7 +2,7 @@ package com.lightrpc.protocol;
 
 /**
  * RPC Request
- * @author huangyong
+ *
  */
 public class RpcRequest {
     private String requestId;

@@ -3,7 +3,7 @@ package com.lightrpc.registry;
 /**
  * ZooKeeper constant
  *
- * @author huangyong
+ *
  */
 public interface Constant {
 

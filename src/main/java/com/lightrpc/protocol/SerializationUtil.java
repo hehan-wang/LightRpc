@@ -11,7 +11,7 @@ import org.objenesis.ObjenesisStd;
 
 /**
  * Serialization Util（Based on Protostuff）
- * @author huangyong
+ *
  */
 public class SerializationUtil {
 

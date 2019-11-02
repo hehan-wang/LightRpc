@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * RPC annotation for RPC service
  *
- * @author huangyong
+ *
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)
